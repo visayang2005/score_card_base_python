@@ -313,3 +313,6 @@ class WOE(object):
     @WOE_MAX.setter
     def WOE_MAX(self, woe_max):
         self._WOE_MAX = woe_max
+
+        
+ ## test
